@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project demonstrates my ability to support an e-commerce business with Shopify store administration, product management, order management, customer support, inventory tracking, and sales reporting.
+This project showcases my ability to support an e-commerce business with Shopify store administration, product management, order management, customer support, inventory tracking, and sales reporting.
 
-## Shopify VA Services Demonstrated
+## Shopify VA Services 
 
 - Product listing and organization
 - Product information management
