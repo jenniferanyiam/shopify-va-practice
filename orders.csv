@@ -1,0 +1,9 @@
+Order ID,Customer,Product,Quantity,Total Amount,Payment Status,Fulfillment Status
+#1001,Sarah Johnson,Classic Leather Handbag,1,45.00,Paid,Fulfilled
+#1002,Emily Carter,Everyday Tote Bag,2,70.00,Paid,Fulfilled
+#1003,Jessica Williams,Women's Casual Dress,1,55.00,Paid,Unfulfilled
+#1004,Michael Brown,Minimalist Wallet,1,18.00,Paid,Fulfilled
+#1005,Olivia Davis,Silk Scarf,2,44.00,Paid,Unfulfilled
+#1006,Daniel Wilson,Classic Denim Jacket,1,65.00,Paid,Fulfilled
+#1007,Sophia Martinez,Leather Sandals,2,60.00,Paid,Fulfilled
+#1008,Grace Anderson,Statement Earrings,3,45.00,Paid,Unfulfilled
