@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project showcases my ability to support an e-commerce business with Shopify store administration, product management, order management, customer support, inventory tracking, and sales reporting.
+This portfolio project showcases my ability to support an e-commerce business with Shopify store administration, product management, order management, customer support, inventory tracking, and sales reporting.
 
-## Shopify VA Services 
+## Shopify VA Services
 
 - Product listing and organization
 - Product information management
@@ -16,9 +16,19 @@ This project showcases my ability to support an e-commerce business with Shopify
 - Data organization
 - Store administration
 
-## Project Goals
+## Project Deliverables
 
-The goal of this practice project is to demonstrate how I can help an e-commerce business keep its Shopify operations organized, accurate, and customer-focused.
+### Product Management
+Organized product data including product names, SKUs, categories, pricing, inventory levels, and product status.
+
+### Order Management
+Maintained order records including customers, products, quantities, payment status, and fulfillment status.
+
+### Customer Management
+Organized customer information and tracked order history, customer spending, and customer status.
+
+### Sales Reporting
+Created a sales performance report covering total orders, revenue, average order value, units sold, fulfillment, and inventory metrics.
 
 ## Skills & Tools
 
@@ -31,9 +41,14 @@ The goal of this practice project is to demonstrate how I can help an e-commerce
 - Order Management
 - Inventory Management
 - Sales Support
+- Data Reporting
+
+## Project Purpose
+
+This is a fictional practice store created to showcase my e-commerce virtual assistant skills and demonstrate how I organize and manage Shopify-related business data.
 
 ## About Me
 
-I am a Customer Support and CRM Virtual Assistant with experience supporting customers, managing business information, organizing data, and assisting with sales and administrative operations.
+I am a Customer Support and CRM Virtual Assistant with over 3 years of experience in customer service, executive support, and sales.
 
-This project was created as a practical demonstration of my Shopify Virtual Assistant skills.
+I help businesses stay organized, provide excellent customer support, manage CRM data, and streamline administrative and sales operations.
